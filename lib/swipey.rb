@@ -1,0 +1,3 @@
+module Swipey
+  # Your code goes here...
+end
